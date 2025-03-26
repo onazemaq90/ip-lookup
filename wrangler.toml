@@ -6,5 +6,5 @@ workers_dev = false
 route = { pattern = "ip.rootnet.in/*", zone_name = "rootnet.in" }
 
 kv_namespaces = [
-	 { binding = "IP2NETWORK", id = "0346d14aac324605afeafddaa3719192", preview_id = "0346d14aac324605afeafddaa3719192" }
+	 { binding = "IP2NETWORK", id = "16293b30e01143649f10a2ef63ca72aa", preview_id = "16293b30e01143649f10a2ef63ca72aa" }
 ]
